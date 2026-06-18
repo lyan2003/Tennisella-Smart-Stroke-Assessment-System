@@ -94,7 +94,7 @@ Mechanical balance and delivery execution accuracy are verified when $0.6 \le R_
 
 ## Operational Verification & System Demonstrations
 
-### 1. End-to-End System Demonstration
+###  End-to-End System Demonstration
 
 Below is a comprehensive video demonstration showcasing the operational full-stack application, highlighting continuous backend telemetry processing and live frontend state updates.
 
