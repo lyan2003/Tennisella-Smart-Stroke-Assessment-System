@@ -90,6 +90,20 @@ $$R_s = \frac{v_{\text{swing}}}{v_{\text{max}}}$$
 Mechanical balance and delivery execution accuracy are verified when $0.6 \le R_s \le 0.7$.
 
 ---
+---
+
+## Operational Verification & System Demonstrations
+
+### 1. End-to-End System Demonstration
+
+Below is a comprehensive video demonstration showcasing the operational full-stack application, highlighting continuous backend telemetry processing and live frontend state updates.
+
+
+https://github.com/user-attachments/assets/6741d723-ea83-4c58-9720-dbee34c39cf2
+
+
+
+---
 
 ## Repository Tree Structure
 
@@ -161,21 +175,6 @@ cd frontend
 npm run dev
 
 ```
-
----
-
-## Operational Verification & System Demonstrations
-
-### 1. End-to-End System Demonstration
-
-Below is a comprehensive video demonstration showcasing the operational full-stack application, highlighting continuous backend telemetry processing and live frontend state updates.
-
-
-https://github.com/user-attachments/assets/6741d723-ea83-4c58-9720-dbee34c39cf2
-
-
-
----
 
 ## System Boundaries and Future Work
 
