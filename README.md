@@ -90,7 +90,6 @@ $$R_s = \frac{v_{\text{swing}}}{v_{\text{max}}}$$
 Mechanical balance and delivery execution accuracy are verified when $0.6 \le R_s \le 0.7$.
 
 ---
----
 
 ## Operational Verification & System Demonstrations
 
