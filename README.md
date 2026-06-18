@@ -4,6 +4,14 @@ An advanced assistive technology framework engineered to evaluate tennis stroke 
 
 ---
 
+### Project Recognition and Development Lifecycle
+
+> **Global Award Achievement:** Formally recognized as the **3rd Place Worldwide Winner** at the prestigious **IEEE CASS Student Design Competition 2026**.
+> 
+> **Timeline Framework:** Complete research, hardware-software co-design, and end-to-end implementation were systematically executed within the operational window from **October 14, 2025**, to **December 1, 2025**.
+
+---
+
 ## Architecture and Data Flow Overview
 
 The platform utilizes a multi-tiered pipeline that ingests continuous physical streams, runs deterministic rule-based algorithms, and broadcasts telemetry to client interfaces.
