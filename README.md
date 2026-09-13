@@ -188,8 +188,6 @@ npm run dev
 
   ---
 
----
-
 ## Team & Contributors
 
 | Member | Socials |
