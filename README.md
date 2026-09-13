@@ -9,6 +9,12 @@ An advanced assistive technology framework engineered to evaluate tennis stroke 
 > **Global Award Achievement:** Formally recognized as the **3rd Place Worldwide Winner** at the prestigious **IEEE CASS Student Design Competition 2026**.
 > 
 > **Timeline Framework:** Complete research, hardware-software co-design, and end-to-end implementation were systematically executed within the operational window from **October 14, 2025**, to **December 1, 2025**.
+> <p align="center">
+  <img src="<img width="1170" height="1174" alt="1770313487484" src="https://github.com/user-attachments/assets/63f85c45-d5a4-4507-83c0-0ae6d9b90de6" />
+" alt="IEEE CASS 2026 Award Ceremony" width="100%"/>
+  <br>
+  <em>Tennisella Team celebrating 3rd Place at IEEE CASS Student Design Competition 2026</em>
+</p>
 
 ---
 
