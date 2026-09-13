@@ -185,3 +185,17 @@ npm run dev
 * **IMU Sensor Drift Mitigation:** Current iterations encounter minor gyroscopic drift parameters, requiring baseline threshold filtering algorithms to reduce cumulative integration errors.
 * **Positional Dependency Constraints:** Execution accuracy depends on uniform physical alignment on the racquet grip, which is addressed through startup initialization protocols.
 * **Future Machine Learning Integration:** Future updates aim to replace deterministic rule-based classifications with tinyML pipelines for comprehensive swing trajectory recognition.
+
+  ---
+
+## Team & Contributors
+
+<p align="center">
+  <img src="path/to/team-photo.jpg" alt="Tennisella Team" width="800"/>
+</p>
+
+| Member | Role | Socials |
+| :--- | :--- | :--- |
+| **Name 1** | Embedded & Hardware Architecture | [LinkedIn](#) \| [GitHub](#) |
+| **Name 2** | Backend & Stream Processing | [LinkedIn](#) \| [GitHub](#) |
+| **Name 3** | Frontend & UI/UX Design | [LinkedIn](#) \| [GitHub](#) |
