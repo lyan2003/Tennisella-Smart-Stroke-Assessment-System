@@ -194,8 +194,11 @@ npm run dev
   <img src="path/to/team-photo.jpg" alt="Tennisella Team" width="800"/>
 </p>
 
-| Member | Role | Socials |
+| Member | Socials |
 | :--- | :--- | :--- |
-| **Name 1** | Embedded & Hardware Architecture | [LinkedIn](#) \| [GitHub](#) |
-| **Name 2** | Backend & Stream Processing | [LinkedIn](#) \| [GitHub](#) |
-| **Name 3** | Frontend & UI/UX Design | [LinkedIn](#) \| [GitHub](#) |
+| **Lyan Ahmed**  | [LinkedIn](#) \| [GitHub](#) |
+| **Basma Mohamed**  | [LinkedIn](#) \| [GitHub](#) |
+| **Rehab Marzouk**  | [LinkedIn](#) \| [GitHub](#) |
+| **Suhila Tharwat**  | [LinkedIn](#) \| [GitHub](#) |
+| **Olivia Morkos**  | [LinkedIn](#) \| [GitHub](#) |
+
