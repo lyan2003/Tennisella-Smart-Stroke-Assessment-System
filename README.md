@@ -188,17 +188,15 @@ npm run dev
 
   ---
 
+---
+
 ## Team & Contributors
 
-<p align="center">
-  <img src="path/to/team-photo.jpg" alt="Tennisella Team" width="800"/>
-</p>
-
 | Member | Socials |
-| :--- | :--- | :--- |
-| **Lyan Ahmed**  | [LinkedIn](#) \| [GitHub](#) |
-| **Basma Mohamed**  | [LinkedIn](#) \| [GitHub](#) |
-| **Rehab Marzouk**  | [LinkedIn](#) \| [GitHub](#) |
-| **Suhila Tharwat**  | [LinkedIn](#) \| [GitHub](#) |
-| **Olivia Morkos**  | [LinkedIn](#) \| [GitHub](#) |
+| :--- | :--- |
+| **Lyan Ahmed** | [LinkedIn](https://www.linkedin.com/in/lyan-ahmed-62016b259) |
+| **Basma Mohamed** | [LinkedIn](https://www.linkedin.com/in/basma-mohamad-982408291) |
+| **Rehab Marzouk** | [LinkedIn](https://www.linkedin.com/in/rehab-marzouk) |
+| **Suhila Tharwat** | [LinkedIn](https://www.linkedin.com/in/suhila-elmasry-7b7283305) |
+| **Olivia Morkos** | [LinkedIn](https://www.linkedin.com/in/olivia-morkos-b97229287) |
 
